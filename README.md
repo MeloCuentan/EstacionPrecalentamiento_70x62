@@ -19,3 +19,4 @@ Componentes utilizados:
 
 Los tornillos que van puestos en la placa calentadora, se calientan bastante, así que la mejor solución ha sido poner un trozo de madera como placa intermedia.
 
+El LGT8F328P se puede comprar el componente suelto. En mi caso tenía el del enlace y lo desoldé para ponerlo en la nueva
