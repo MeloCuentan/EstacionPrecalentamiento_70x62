@@ -1,4 +1,7 @@
 # Estacion de Precalentamiento
+
+![Foto Frontal](imágenes/terminado_frontal.jpg)
+
 Esta es una estación de precalemtamiento para soldar componentes SMD en general
 Está preparado para poder funcionar de 50 grados a 250 grados. 
 
